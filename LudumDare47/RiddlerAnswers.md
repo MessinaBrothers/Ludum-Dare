@@ -55,7 +55,7 @@
   <details>
     <summary>Answer</summary>
 
-      Pedastal with statue of a person's head and torso
+      Pedestal with statue of a person's head and torso
 
   </details>
 </details>
@@ -116,6 +116,71 @@
     <summary>Answer</summary>
 
       Bookcase with a toad
+
+  </details>
+</details>
+</details>
+<details>
+  <summary>Riddle 11</summary>
+
+  My ice stays, while yours gets hotter. I have no fish, yet mostly water. I am huge, yet still small. Find yourself upon my ball.
+
+  <details>
+    <summary>Answer</summary>
+
+      Pedestal with a globe
+
+  </details>
+</details>
+</details>
+<details>
+  <summary>Riddle 12</summary>
+
+  Relax inside and take a nap. No hands have I, but pour and clap.
+
+  <details>
+    <summary>Answer</summary>
+
+      Window with rain
+
+  </details>
+</details>
+</details>
+<details>
+  <summary>Riddle 13</summary>
+
+  Shooting fire since first-gen. I say, but can't see more. While not considered one of them, I am a friend to the omnivore.
+
+  <details>
+    <summary>Answer</summary>
+
+      Venus flytrap plant
+
+  </details>
+</details>
+</details>
+<details>
+  <summary>Riddle 14</summary>
+
+  My weight in carats may be small, but you still loved me through it all.
+
+  <details>
+    <summary>Answer</summary>
+
+      Fishbowl with a goldfish
+
+  </details>
+</details>
+</details>
+<details>
+  <summary>Riddle 15</summary>
+
+  Is this heaven, or is this hell? My power over you only grows. But wait, what is that smell...Follow my nose! For the fruity taste that shows! (TM)
+
+  <details>
+    <summary>Answer</summary>
+
+      Dessert of Fruit Loops (TM)
 
   </details>
 </details>
